@@ -4,6 +4,20 @@
 ## Description
 My purpose in creating this code was to provide an easy and fast approach to creating a README file via command-line application. This lets the person who started the initiative spend more time working on it.
 
+### Screenshots of My Application
+
+- ![Screenshot_1](./assets/images/Screenshot_(1).png)
+- ![Screenshot_2](./assets/images/Screenshot_(2).png)
+- ![Screenshot_3](./assets/images/Screenshot_(3).png)
+- ![Screenshot_4](./assets/images/Screenshot_(4).png)
+- ![Screenshot_5](./assets/images/Screenshot_(5).png)
+- ![Screenshot_6](./assets/images/Screenshot_(6).png)
+- ![Screenshot_7](./assets/images/Screenshot_(7).png)
+
+## Link to Video Walkthrough
+
+[![Video Walkthrough](https://1drv.ms/u/s!AoZL4Aic7XOGgUXsMvF1ymN0-Yq9?e=ui5GMi/3.22.24%20Video%20Walkthrough.webm)]
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
