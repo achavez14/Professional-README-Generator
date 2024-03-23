@@ -4,19 +4,19 @@
 ## Description
 My purpose in creating this code was to provide an easy and fast approach to creating a README file via command-line application. This lets the person who started the initiative spend more time working on it.
 
-### Screenshots of My Application
+## Screenshots of My Application
 
-- ![Screenshot_1](assets/images/Screenshot_(1).png)
-- ![Screenshot_2](assets/images/Screenshot_(2).png)
-- ![Screenshot_3](assets/images/Screenshot_(3).png)
-- ![Screenshot_4](assets/images/Screenshot_(4).png)
-- ![Screenshot_5](assets/images/Screenshot_(5).png)
-- ![Screenshot_6](assets/images/Screenshot_(6).png)
-- ![Screenshot_7](assets/images/Screenshot_(7).png)
+- ![Screenshot_1](./assets/images/Screenshot_(1).png)
+- ![Screenshot_2](./assets/images/Screenshot_(2).png)
+- ![Screenshot_3](./assets/images/Screenshot_(3).png)
+- ![Screenshot_4](./assets/images/Screenshot_(4).png)
+- ![Screenshot_5](./assets/images/Screenshot_(5).png)
+- ![Screenshot_6](./assets/images/Screenshot_(6).png)
+- ![Screenshot_7](./assets/images/Screenshot_(7).png)
 
 ## Link to Video Walkthrough
 
--![Video Walkthrough](https://drive.google.com/file/d/1T2gry2G8zpN2OYxM6B1UKG-2WCp8ws42/view?usp=sharing)
+- ![Video Walkthrough](https://1drv.ms/u/s!AoZL4Aic7XOGgUXsMvF1ymN0-Yq9?e=ui5GMi)
 
 ## Table of Contents
 - [Installation](#installation)
