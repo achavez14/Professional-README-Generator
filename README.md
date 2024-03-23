@@ -6,17 +6,17 @@ My purpose in creating this code was to provide an easy and fast approach to cre
 
 ## Screenshots of My Application
 
-![Screenshot_1](./assets/images/Screenshot_(1).png)
-![Screenshot_2](./assets/images/Screenshot_(2).png)
-![Screenshot_3](./assets/images/Screenshot_(3).png)
-![Screenshot_4](./assets/images/Screenshot_(4).png)
-![Screenshot_5](./assets/images/Screenshot_(5).png)
-![Screenshot_6](./assets/images/Screenshot_(6).png)
-![Screenshot_7](./assets/images/Screenshot_(7).png)
+- ![Screenshot_1](./assets/images/Screenshot_(1).png)
+- ![Screenshot_2](./assets/images/Screenshot_(2).png)
+- ![Screenshot_3](./assets/images/Screenshot_(3).png)
+- ![Screenshot_4](./assets/images/Screenshot_(4).png)
+- ![Screenshot_5](./assets/images/Screenshot_(5).png)
+- ![Screenshot_6](./assets/images/Screenshot_(6).png)
+- ![Screenshot_7](./assets/images/Screenshot_(7).png)
 
 ## Link to Video Walkthrough
 
-![Video Walkthrough](https://drive.google.com/file/d/1T2gry2G8zpN2OYxM6B1UKG-2WCp8ws42/view)
+- ![Video Walkthrough](https://drive.google.com/file/d/1T2gry2G8zpN2OYxM6B1UKG-2WCp8ws42/view?usp=sharing)
 
 ## Table of Contents
 - [Installation](#installation)
