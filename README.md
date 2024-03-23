@@ -16,7 +16,7 @@ My purpose in creating this code was to provide an easy and fast approach to cre
 
 ## Link to Video Walkthrough
 
-[![Video Walkthrough](https://1drv.ms/u/s!AoZL4Aic7XOGgUXsMvF1ymN0-Yq9?e=ui5GMi)]
+[![Video Walkthrough](https://drive.google.com/file/d/1T2gry2G8zpN2OYxM6B1UKG-2WCp8ws42/view)]
 
 ## Table of Contents
 - [Installation](#installation)
