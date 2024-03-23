@@ -2,7 +2,7 @@
 # Professional-README-Generator
 
 ## Description
-My purpose in creating this code was to provide an easy and fast approach to creating a README file via command-line application. This lets the person who started the initiative spend more time working on it. 
+My purpose in creating this code was to provide an easy and fast approach to creating a README file via command-line application. This lets the person who started the initiative spend more time working on it.
 
 ## Table of Contents
 - [Installation](#installation)
