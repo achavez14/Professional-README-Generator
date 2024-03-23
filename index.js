@@ -33,6 +33,16 @@ const questions = [
         type: 'input',
         name: 'license',
         message: 'What is the license for your project?'
+    },
+    {
+        type: 'input',
+        name: 'githubUsername',
+        message: 'Enter your GitHub username:'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email address:'
     }
 ];
 
@@ -48,13 +58,49 @@ function writeToFile(fileName, data) {
 }
 
 // TODO: Create a function to initialize app
+function generateREADME(answers) {
+    const readmeContent = `
+# ${answers.title}
+
+## Description
+${answers.description}
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## Installation
+${answers.installation}
+
+## Usage
+${answers.usage}
+
+## License
+This project is licensed under ${answers.license}.
+
+## Contributing
+${answers.contributing}
+
+## Tests
+Include any test instructions here.
+
+## Questions
+For questions or feedback, please contact:
+- GitHub: [${answers.githubUsername}](https://github.com/${answers.githubUsername})
+- Email: ${answers.email}
+`;
+
+    writeToFile('README.md', readmeContent);
+}
+
 function init() {
     inquirer.prompt(questions)
         .then((answers) => {
-            // Generate README content based on user input
-            const readmeContent = `# ${answers.title}\n\n${answers.description}\n`;
-            // Write README file
-            writeToFile('README.md', readmeContent);
+            generateREADME(answers);
         })
         .catch((error) => {
             console.error(error);
